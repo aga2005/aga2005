@@ -1,5 +1,5 @@
 <div align = "center">
-	<h1><samp><b>Hello, i am abolfazl</b></samp></h1>
+	<h1><samp><b>Hello, I am Abolfazl</b></samp></h1>
     <p><samp>I am a Python programmer and I'm from Islamic Republic of Iran<br>I'm learning C/C++<br>I live on the command line</samp></p>
 </div>
 
